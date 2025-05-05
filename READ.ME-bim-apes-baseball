@@ -1,0 +1,35 @@
+/BIM-Baseball-Exchange
+├── README.md                     # Overview of baseball trading mechanics
+├── LICENSE.md                     # Usage permissions & open-source framework
+├── docs/
+│   ├── market_mechanics.md       # How baseball financial trading works
+│   ├── pitch_velocity_analysis.md # AI analytics for throwing mechanics
+│   ├── batter_value_index.md     # Player hitting metrics linked to trading valuations
+│   ├── blockchain_tokenization.md # NFT-backed performance assets
+│   ├── liquidity_management.md   # Market order flow for baseball trading
+│   ├── game_prediction_ai.md      # AI models for match outcome forecasts
+├── code/
+│   ├── trading/
+│   │   ├── order_matching_engine.py  # Buy/sell transactions for player contracts
+│   │   ├── liquidity_provider.py     # Market depth modeling
+│   │   ├── risk_monitor.py           # Volatility metrics
+│   │   └── athlete_valuation.py      # AI-driven pricing models for players
+│   ├── ai_analysis/
+│   │   ├── batting_performance_ai.py # Predictive slugging % analytics
+│   │   ├── pitching_mechanics_ai.py  # Fastball spin & trajectory tracking
+│   │   ├── trade_signal_generator.py # AI-backed buy/sell recommendations
+│   │   ├── injury_risk_assessment.py # Neural analysis for long-term player value
+│   ├── blockchain/
+│   │   ├── nft_marketplace.py       # Tokenized baseball contract listings
+│   │   ├── smart_contracts.py       # Secure transaction validation for sports assets
+│   ├── execution/
+│   │   ├── spread_adjustment.py     # Market pricing algorithms
+│   │   ├── inventory_manager.py     # Player contract optimization
+│   ├── datasets/
+│   │   ├── player_performance.csv   # Historical game stats
+│   │   ├── market_order_flow.json   # Live trading movement
+│   │   ├── liquidity_analysis.json  # Order book trends
+│   └── notebooks/
+│       ├── baseball_trade_analysis.ipynb # Algorithmic trading simulations
+│       ├── AI_market_predictions.ipynb   # Forecasting future contract value
+│       ├── blockchain_asset_validation.ipynb # NFT-backed analytics
